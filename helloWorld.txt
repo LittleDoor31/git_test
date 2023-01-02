@@ -1,1 +1,2 @@
 Here's the text document I will write some random text
+Test 2 of using Git and some commit things
